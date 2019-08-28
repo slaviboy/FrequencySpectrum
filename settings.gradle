@@ -1,0 +1,1 @@
+include ':app', ':frequencyspectrum', ':analyser', ':microphone', ':stars'
